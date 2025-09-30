@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="hafidzpython",
-    version="0.0.1",
+    version="0.0.2",
     author="Hafidz",
     author_email="hafidz@example.com",
     description="A simple Python package with string and calculator utilities",
